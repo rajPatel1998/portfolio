@@ -1,4 +1,7 @@
 #!/bin/bash
+# Purpose: Copies folder from one destination to the other
+# Author: Deep Patel 
+# LastModified: 31/07/2021
 
 read -p "Type the name of the folder you would like to copy: " folderName
 

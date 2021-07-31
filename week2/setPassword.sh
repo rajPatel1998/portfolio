@@ -1,4 +1,7 @@
 #!/bin/bash
+# Purpose: Set hashed password to the file
+# Author: Deep Patel 
+# LastModified: 31/07/2021
 
 # Filename to save the secret passwor to
 fileName='secret.txt'

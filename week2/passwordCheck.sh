@@ -1,4 +1,7 @@
 #!/bin/bash
+# Purpose: Checks the password in the file
+# Author: Deep Patel 
+# LastModified: 31/07/2021
 
 #file to check from
 hashFile="secret.txt"

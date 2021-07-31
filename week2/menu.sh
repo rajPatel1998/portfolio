@@ -1,4 +1,7 @@
 #!/bin/bash
+# Purpose: Menu providing all the options for the executable scripts to the user
+# Author: Deep Patel 
+# LastModified: 31/07/2021
 
 #execute the passwordCheck script
 ./passwordCheck.sh

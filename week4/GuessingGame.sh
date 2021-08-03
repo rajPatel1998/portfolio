@@ -18,7 +18,7 @@ getNumber()
 	done
 
 	#User has guessed the correct number
-	echo -e "\033[32mCorrect!\033[0m\n"
+	echo -e "\033[32mRight!\033[0m\n"
 	echo "YOU HAVE GUESSED IT RIGHT!"
 }
 
